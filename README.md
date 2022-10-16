@@ -1,3 +1,12 @@
+Principais habilidades desenvolvidas neste Codelab
+
+- Noções básicas sobre como usar a navegação do Jetpack com o Jetpack Compose.
+- Como navegar entre funções de composição.
+- Como integrar uma função de composição de uma barra de guias personalizada à hierarquia de navegação.
+- Como navegar usando argumentos.
+- Como navegar usando links diretos.
+- Como testar a navegação.
+
 # Navigation in Jetpack Compose Codelab
 
 This folder contains the source code for the
